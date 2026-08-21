@@ -13,11 +13,11 @@ body>main {
     gap: 1rem;
 }
 
-.btn-submit {
+.button-submit {
     flex: 3;
 }
 
-.btn-cancel {
+.button-cancel {
     flex: 1;
 }
 
@@ -27,7 +27,7 @@ body>main {
     align-items: center;
 }
 
-.btn-auto-width {
+.button-auto-width {
     width: auto;
 }
 
@@ -58,12 +58,12 @@ body>main {
     color: #777;
 }
 
-.btn-group {
+.button-group {
     display: flex;
     gap: 0.5rem;
 }
 
-.btn-small {
+.button-small {
     padding: 0.25rem 0.5rem;
     font-size: 0.8rem;
 }
