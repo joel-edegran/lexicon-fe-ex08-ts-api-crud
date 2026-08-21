@@ -44,7 +44,6 @@ The repository contains a decoupled architecture with a `.NET 10` Web API backen
  │   ├── index.html         # Application entry point containing HTML template
  │   ├── package-lock.json
  │   ├── package.json
- │   └── pnpm-lock.yaml     # pnpm package manager lockfile
  ├── .gitignore
  ├── tsconfig.json          # TypeScript compiler configuration
  └── README.md              # Project documentation file
